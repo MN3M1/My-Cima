@@ -4,7 +4,7 @@ A sleek, ad-free platform for searching, watching, and downloading movies and se
 
 Cima is a lightweight, user-friendly streaming platform powered by the Araby API. Designed to deliver an uninterrupted viewing experience, it offers a clean interface to explore films and series, complete with Arabic subtitles. Whether you're streaming online or downloading for offline viewing, Cima ensures a seamless experience with no ads. For optimal privacy and performance, we recommend using the Brave or kiwi Browser.
 
-Try it out today: Live Demo
+Try it out: [Live Demo](https://mn3m.rf.gd/cima/)
 
 We’d love your feedback—star the repo and share your thoughts!
 
