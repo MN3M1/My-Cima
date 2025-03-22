@@ -31,7 +31,7 @@ We’d love your feedback—star this repo and share your thoughts!
 |-----------|----------------|--------------|
 | <img src="https://github.com/MN3M1/My-Cima/blob/main/search-results.jpg?text=search+result" width="250"/> | <img src="https://github.com/MN3M1/My-Cima/blob/main/details.jpg?text=details" width="250"/> | <img src="https://github.com/MN3M1/My-Cima/blob/main/watch-download.jpg?text=watch+download" width="250"/> |
 
-*(Screenshots coming soon!)*
+
 
 ---
 
